@@ -1,1 +1,18 @@
 /Assignment1/obj
+/Assignment1/bin
+/Assignment2/01 委托与事件/obj
+/Assignment2/01 委托与事件/bin
+/Assignment2/02 返回委托与闭包/obj
+/Assignment2/02 返回委托与闭包/bin
+/Assignment2/03 逆变与协变/obj
+/Assignment2/03 逆变与协变/bin
+/Assignment2/04 异常/01 ThrowingAnException/obj
+/Assignment2/04 异常/01 ThrowingAnException/bin
+/Assignment2/04 异常/02 CatchingDifferentExceptionTypes/obj
+/Assignment2/04 异常/02 CatchingDifferentExceptionTypes/bin
+/Assignment2/04 异常/03 UsingExceptionDispatchInfoToRethrowException/obj
+/Assignment2/04 异常/03 UsingExceptionDispatchInfoToRethrowException/bin
+/Assignment2/04 异常/04 CreatingCustomException/obj
+/Assignment2/04 异常/04 CreatingCustomException/bin
+/Assignment2/04 异常/05 check unchecked/obj
+/Assignment2/04 异常/05 check unchecked/bin
